@@ -319,6 +319,7 @@ INNER:
 .ORG 4000H
 
 ;TEST PROGRAM TO RUN
+;SO EXE COMMAND CAN BE TESTED
 
 EXECUTE:
 	LD A,0AAH
@@ -336,3 +337,5 @@ COFFEE:
 	JP COFFEE
 
 END
+
+Z-80 Computer Hardware description available online.
